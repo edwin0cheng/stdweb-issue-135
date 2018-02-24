@@ -1,8 +1,10 @@
 # stdweb-issue-135
 stdweb-issue-135
 
+```
 cargo clean
 cargo web start
+```
 
 Open developer console:
 
