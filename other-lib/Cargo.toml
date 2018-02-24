@@ -1,0 +1,7 @@
+[package]
+name = "other-lib"
+version = "0.1.0"
+authors = ["Edwin Cheng <edwin0cheng@gmail.com>"]
+
+[target.'cfg(target_arch = "wasm32")'.dependencies]
+stdweb="0.4.0"

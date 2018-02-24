@@ -1,0 +1,7 @@
+[package]
+name = "stdweb-issue-135"
+version = "0.1.0"
+authors = ["Edwin Cheng <edwin0cheng@gmail.com>"]
+
+[dependencies]
+other-lib={path="other-lib"}
